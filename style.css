@@ -1,0 +1,10 @@
+input{
+    width: 40%;
+    margin-bottom: 10px;
+}
+div {
+display: flex;
+}
+div button {
+margin-right: 5px;
+}
